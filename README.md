@@ -1,4 +1,4 @@
 # Outlook-Python-Tutorial
-A series of tutorials that demonstrate how to control Microsoft Outlook using Python
+Welcome to a series of tutorials on how to get the most out of Microsoft Outlook using python!  
 
 ![](outlook-python-logo.png)
