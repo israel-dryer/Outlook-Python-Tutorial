@@ -2,7 +2,7 @@
   COPY AND PASTE CODE FOR YOUTUBE TUTORIAL
   
   Video Title: Python Outlook Email - HTML Formatted Email - Learn how to control Microsoft Outlook using Pythonhttps
-  Video URL: //youtu.be/GQkXs-ncS4g
+  Video URL: https://youtu.be/GQkXs-ncS4g
   Last Modified: 7/30/2020
 """
 
