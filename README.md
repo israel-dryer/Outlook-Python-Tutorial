@@ -11,6 +11,7 @@ Welcome to a series of tutorials on how to get the most out of Microsoft Outlook
             <li><a href="https://github.com/israel-dryer/Outlook-Python-Tutorial/wiki/Attachments">Attachments</a></li>
             <li><a href="https://github.com/israel-dryer/Outlook-Python-Tutorial/wiki/Email-templates">Email templates</a></li>                                    
             <li><a href="https://github.com/israel-dryer/Outlook-Python-Tutorial/wiki/Email-sending-limits">Sending limits</a></li>
+            <li><a href="None">Chunking a Distribution</a></li>            
             <li><a href="https://github.com/israel-dryer/Outlook-Python-Tutorial/wiki/Navigating-folders">Navigating folders</a></li>
             <li><a href="https://github.com/israel-dryer/Outlook-Python-Tutorial/wiki/Bulk-mail">Bulk mail</a></li>                                    
         </ul></b>
