@@ -1,2 +1,0 @@
-# Examples of GUI Applications I've built for different departments in my organization for internal bulk mail.
-
